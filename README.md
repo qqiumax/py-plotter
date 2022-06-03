@@ -10,3 +10,9 @@
 ### [contribute here](https://github.com/qqiumax/py-plotter/)
 ### [donate here](https://qqiumax.github.io/donate/)
 [back to home](https://qqiumax.github.io/home)
+
+
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.
