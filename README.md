@@ -3,7 +3,7 @@
 ### [download source](https://qqiumax.github.io/py-plotter/py-plotter.py)
 ### [download exe binary](https://qqiumax.github.io/py-plotter/py-plotter.exe)
 ### [download signature](https://qqiumax.github.io/py-plotter/py-plotter.py.gpg)
-### [download source](https://qqiumax.github.io/py-plotter/pubkey.asc)
+### [download public key](https://qqiumax.github.io/py-plotter/pubkey.asc)
 ### Signature signer should be:
 <code>qqiumax(I am Max Qiu)<maxqqqq@hotmail.com></code>
 
